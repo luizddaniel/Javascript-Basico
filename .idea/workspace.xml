@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06b3459f-5824-43d3-a6bf-32ebecb6393d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Javascript-Basico.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="C:\Users\Luiz\Documents\Estudo\Javascript-Basico\index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Javascript-Basico.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="06b3459f-5824-43d3-a6bf-32ebecb6393d" time="1473180876002" ignored="false" />
+    <file path="/Dummy.txt" changelist="06b3459f-5824-43d3-a6bf-32ebecb6393d" time="1473181937074" ignored="false" />
     <file path="/index.js" changelist="06b3459f-5824-43d3-a6bf-32ebecb6393d" time="1473181062203" ignored="false" />
-    <file path="/index.html" changelist="06b3459f-5824-43d3-a6bf-32ebecb6393d" time="1473181306689" ignored="false" />
+    <file path="/index.html" changelist="06b3459f-5824-43d3-a6bf-32ebecb6393d" time="1473189821490" ignored="false" />
+    <file path="C:/xampp/web/www/Farsoft-Skills/docs/faq.md" changelist="06b3459f-5824-43d3-a6bf-32ebecb6393d" time="1473181906856" ignored="false" />
+    <file path="/faq.md" changelist="06b3459f-5824-43d3-a6bf-32ebecb6393d" time="1473181899876" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +34,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="22" selection-start="58" selection-end="58" vertical-scroll-proportion="0.09107143">
+            <state line="41" column="6" selection-start="997" selection-end="997" vertical-scroll-proportion="0.5206767">
               <folding />
             </state>
           </provider>
@@ -124,6 +121,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
@@ -230,7 +228,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="58" selection-end="58" vertical-scroll-proportion="0.09107143">
+        <state line="41" column="6" selection-start="997" selection-end="997" vertical-scroll-proportion="0.5206767">
           <folding />
         </state>
       </provider>
